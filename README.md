@@ -128,10 +128,10 @@ Actual miss: 12219 Smallest relative miss: 0.046807 for x: 10, y: 11, z: 12
 ## Steps and instructions to run the code:
 There are two possible ways to run the code. 
 ### 1St option:
-Just click on  the Fermants-Near_Miss_Finder.exe file and  gave values of n, k. After execution of code it will ask two options whether you want to continue the execution of code or exit from the code. press 1 if you want to continue , else press 0 it will break exexcution
+Just click on  the Fermants-Near_Miss_Finder.exe file and  gave values of n, k. After execution of code it will ask two options whether you want to continue the execution of code or exit from the code. press 1 if you want to continue , else press 0 it will break execution
 
 ### 2nd option:
-First download the python file named "Fermants_Near_Miss_Finder.py" into your local machine, then use any of python IDE's Such as pycharm or jupyter notebooks or google colab  to run the code. After running code the program asks you to enter the value of n, there enter n value  greater than 2 and less than 12. After entering n value the program asks you to enter k value, here you enter k value greater than 10, then it will execute the algorithms and give output on numbers having smallest relative miss. if you not enter n and k values as 2< n >12 and  k>10 respectively . the program ends with showing errors. After execution of code it will ask two options whether you want to continue the execution of code or exit from the code. press 1 if you want to continue , else press 0 it will break exexcution
+First download the python file named "Fermants_Near_Miss_Finder.py" into your local machine, then use any of python IDE's Such as pycharm or jupyter notebooks or google colab  to run the code. After running code the program asks you to enter the value of n, there enter n value  greater than 2 and less than 12. After entering n value the program asks you to enter k value, here you enter k value greater than 10, then it will execute the algorithms and give output on numbers having smallest relative miss. if you not enter n and k values as 2< n >12 and  k>10 respectively . the program ends with showing errors. After execution of code it will ask two options whether you want to continue the execution of code or exit from the code. press 1 if you want to continue , else press 0 it will break execution
 
 
 
