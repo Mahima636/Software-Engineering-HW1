@@ -1,7 +1,7 @@
 """
-Title: Fermat's Near Miss Finder
-File: Fermant's_Near_Miss_Finder.py
-Created Files: None
+Title: Fermats Near Miss Finder
+File: Fermants_Near_Miss_Finder.py
+Created Files: Fermants_Near_Miss_Finder.exe
 Name : Mahima devaraj, Sandeep Reddy Bapathu
 Email: MahimaDevaraja@lewisu.edu, SandeepReddyBapath@lewisu.edu
 student ID's: L30081389(Mahima devraj),L30088103 (Sandeep Reddy Bapathu)
