@@ -1,5 +1,5 @@
 
-# Week1 Assignment
+# HW1 Assignment
 **Programming Language Used**: Python 
 ## Step by step Solution:
 
